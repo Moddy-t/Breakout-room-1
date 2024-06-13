@@ -1,0 +1,15 @@
+What is HTML
+    > It is the standard markup language for creating web pages.
+What are tags
+    > They are used to define the structure and content of an HTML document.
+What are elements
+    > It is an opening tag, the contents and the end tag
+What is the difference between a tag and an element
+    > Tags are used to define the structure and content while an element is made up of tags
+Discuss semantic elements and its benefits.
+     > semantic elements are elements that clearly describe their meaning in a machine and human readable way.
+     >Its benefits are;
+           1. improve accessibility 
+           2. improve maintainability
+Discuss the diff btn inline and block elements.
+     > Inline elements are displayed within a line of text while block elements are displayed as seperate block of content.
